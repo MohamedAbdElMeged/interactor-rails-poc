@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+```mermaid
+graph TB
+A[Start] -.-> B
+A --> C
+B --> D
+C --> D
+```
